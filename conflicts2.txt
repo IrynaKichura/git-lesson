@@ -1,3 +1,4 @@
 Hi
 test - changed from conflicts3 branch 
+test - changed from conflicts4 branch
 test2
