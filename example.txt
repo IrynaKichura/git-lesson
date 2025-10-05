@@ -1,3 +1,4 @@
 Hello git1
 Hello git changed now works
+Hello got now works - conflict2
 new line
