@@ -1,2 +1,3 @@
 Hello git1
 Hello got now works
+new line
